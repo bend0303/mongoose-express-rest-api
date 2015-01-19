@@ -1,7 +1,7 @@
 # Mongoose-Express Rest API
 
 Purpose
-> Have an easy to plug rest api for entire mongodb db when using mongoose and express
+> Have an easy to plug rest api for entire mongo db when using mongoose and express
 
 ##Insturctions
 ###get the code
